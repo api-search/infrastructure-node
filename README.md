@@ -1,1 +1,2 @@
-# infrastructure
+## Payments
+A Payments APIs index.
