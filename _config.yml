@@ -1,7 +1,14 @@
-title: APIs.io - Infrastructure
-url: http://127.0.0.1:4000
+name: APIs.io - Infrastructure
+description: The APIs that make infrastructure possible, as well as a number of other related capabilities.
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+
+url: https://infrastructure.apis.io
 
 node: infrastructure
+
+keywords:
+
+- Infrastructure
 
 permalink: /:categories/:year/:month/:day/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
