@@ -1,3 +1,4 @@
+---
 name: Cloudflare
 description: >-
   Cloudflare is built on an intelligent, secure, high-speed global network. We
@@ -75,3 +76,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: cloudflare
+---
