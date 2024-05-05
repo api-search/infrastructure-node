@@ -12,10 +12,10 @@ tags: []
 apis:
   - name: Cloudflare API
     description: >-
-      Interact with Cloudflare's products and services via the Cloudflare API.
-      Using the Cloudflare API requires authentication so that Cloudflare knows
-      who is making requests and what permissions you have. Create an API token
-      to grant access to the API to perform actions.
+      Easily integrate with Cloudflare's products and services using the
+      Cloudflare API. Authentication is essential when utilizing the API to
+      ensure proper authorization and access control. Generate an API token to
+      enable performing various actions with the API.
     tags: []
     contact:
       - FN: Support
@@ -27,6 +27,8 @@ apis:
       - type: APIs.io Search
         url: overlays/cloudflare-openapi-search.yml
     aid: cloudflare:cloudflare-api
+    humanURL: https://developers.cloudflare.com/api/
+    baseURL: https://api.cloudflare.com
 maintainers:
   - FN: API Evangelist
     url: http://apievangelist.com
