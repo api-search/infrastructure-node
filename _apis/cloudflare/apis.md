@@ -37,6 +37,69 @@ apis:
       - type: APIs.io Search
         url: overlays/cloudflare-openapi-search.yml
     aid: cloudflare:cloudflare-api
+  - name: ' accounts/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-accounts--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-accounts--openapi-search.yml
+  - name: ' certificates/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-certificates--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-certificates--openapi-search.yml
+  - name: ' ips/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-ips--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-ips--openapi-search.yml
+  - name: ' memberships/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-memberships--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-memberships--openapi-search.yml
+  - name: ' radar/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-radar--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-radar--openapi-search.yml
+  - name: ' user/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-user--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-user--openapi-search.yml
+  - name: ' zones/'
+    description: Needs description.
+    tags: []
+    properties:
+      - type: OpenAPI
+        url: properties/cloudflare-zones--openapi-original.yml
+    overlays:
+      - type: OpenAPI
+        url: overlays/cloudflare-zones--openapi-search.yml
 common:
   - type: Learning Paths
     url: https://developers.cloudflare.com/learning-paths/
@@ -76,4 +139,5 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: cloudflare
+
 ---
