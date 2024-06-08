@@ -9,9 +9,9 @@ description: >-
   on-premises applications, directories, and identity management systems.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/okta.yml
-created: 2023/11/20
-modified: 2023/11/20
-specificationVersion: '0.16'
+created: 2023-11-20
+modified: 2024-06-07
+specificationVersion: '0.18'
 tags: []
 apis:
   - name: Okta API
@@ -27,11 +27,7 @@ apis:
       - type: Documentation
         url: https://developer.okta.com/docs/reference/
       - type: OpenAPI
-        url: https://github.com/okta/okta-management-openapi-spec
-    overlays:
-      - type: APIs.io Search
-        url: >-
-          overlays/https://github.com/okta/okta-management-openapi-spec-openapi-search.yml
+        url: properties/okta-openapi-original.yml
     aid: okta:okta-api
 common:
   - type: Concepts
