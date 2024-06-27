@@ -23,7 +23,6 @@ apis:
     properties:
       - type: Documentation
         url: https://auth0.com/docs/api
-    overlays: []
     aid: auth0:auth0-api
 common:
   - type: Articles

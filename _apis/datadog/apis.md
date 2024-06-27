@@ -28,7 +28,8 @@ apis:
       - type: Postman Collection
         url: >-
           https://god.gw.postman.com/run-collection/20651290-809b13c1-4ada-46c1-af65-ab276c434068
-    overlays: []
+      - type: OpenAPI
+        url: properties/datadog-openapi-original.yml
     aid: datadog:datadog-api
 common:
   - type: Authentication
