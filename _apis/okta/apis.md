@@ -9,8 +9,8 @@ description: >-
   on-premises applications, directories, and identity management systems.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/okta.yml
-created: 2023-11-20
-modified: 2024-06-07
+created: '2023-11-20T00:00:00.000Z'
+modified: '2024-07-03'
 specificationVersion: '0.18'
 tags: []
 apis:
@@ -63,4 +63,5 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: okta
+
 ---
