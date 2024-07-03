@@ -6,9 +6,10 @@ description: >-
   authorize users.
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/auth0.yml
 created: 2024/04/14
-modified: 2024/04/14
-specificationVersion: '0.16'
-tags: []
+modified: '2024-07-03'
+specificationVersion: '0.18'
+tags:
+  - Infrastructure
 apis:
   - name: Auth0 API
     description: >-
@@ -22,3 +23,7 @@ maintainers:
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: auth0
+score: 12
+overlays:
+  - type: API Evangelist Ratings
+    url: /overlays/api-evangelist-ratings.yml
