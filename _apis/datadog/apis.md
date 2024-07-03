@@ -7,8 +7,8 @@ description: >-
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/datadog.yml
 created: 2023/11/22
-modified: 2023/11/22
-specificationVersion: '0.16'
+modified: '2024-07-03'
+specificationVersion: '0.18'
 tags: []
 apis:
   - name: Datadog API
@@ -21,7 +21,285 @@ apis:
     image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     humanURL: https://docs.datadoghq.com/
     baseURL: https://api.example.com
-    tags: []
+    tags:
+      - APM
+      - ARN
+      - AWS
+      - Accounts
+      - Across
+      - Actions
+      - Active
+      - Agent
+      - Aggregate
+      - Aggregations
+      - Allowlist
+      - Amazon
+      - Analytics
+      - Apm
+      - Applications
+      - Archive
+      - Archives
+      - Assets
+      - Assign
+      - Assignee
+      - Async
+      - Ation
+      - Attributes
+      - Attribution
+      - Audit
+      - Authentication
+      - Authn
+      - Available
+      - Average
+      - Avg
+      - Azure
+      - Batches
+      - Billable
+      - Br
+      - Bridges
+      - Browser
+      - Bulk
+      - CI/CD
+      - CSM
+      - CUR
+      - Cancels
+      - Cardinality
+      - Case
+      - Cases
+      - Change
+      - Channels
+      - Checks
+      - Child
+      - Clone
+      - Cloning
+      - Cloud
+      - Cloudflare
+      - Concurrency
+      - Configurations
+      - Configure
+      - Confluent
+      - Container
+      - Containers
+      - Correction
+      - Corrections
+      - Cost
+      - Cur
+      - Current
+      - Custom
+      - Cws
+      - Dashboard
+      - Dashboards
+      - Data
+      - Datadog
+      - Default
+      - Definitions
+      - Delegate
+      - Demand
+      - Destinations
+      - Details
+      - Detections
+      - Disable
+      - Distinct
+      - Distributions
+      - Downgrade
+      - Downloads
+      - Downtime
+      - Downtimes
+      - Edit
+      - Emails
+      - Embed
+      - Embeds
+      - Enable
+      - Enabled
+      - Ent
+      - Entry
+      - Ents
+      - Estimated
+      - Estimates
+      - Estimator
+      - Events
+      - Executions
+      - Existing
+      - Exists
+      - External
+      - Family
+      - Fastly
+      - Filter
+      - Filtering
+      - Filters
+      - Functions
+      - GCP
+      - Gcp
+      - Ge
+      - Generate
+      - Given
+      - Global
+      - Grants""
+      - Graphs
+      - Groups
+      - Historical
+      - History
+      - Host
+      - Hosts
+      - Hourly
+      - IP
+      - Images
+      - Inc
+      - Incident
+      - Incidents
+      - Index
+      - Indexes
+      - Information
+      - Integrations
+      - Invitation
+      - Invitations
+      - Items
+      - Keys
+      - Lambda
+      - Latest
+      - Links
+      - Locations
+      - Log Based
+      - Logs
+      - Managed
+      - Management
+      - Manual
+      - Mapping
+      - Matches
+      - Memberships
+      - Metadata
+      - Metrics
+      - Modify
+      - Monitor's
+      - Monitoring
+      - Monitors
+      - Monthly
+      - Multiple
+      - Mute
+      - Names
+      - Namespaces
+      - Notebook
+      - Notebooks
+      - Numbers
+      - Objects
+      - Okta
+      - On Demand
+      - Opsgenie
+      - Orders
+      - Organizations
+      - Owned
+      - Pagerduty
+      - Patch
+      - Patterns
+      - Pause
+      - Permission
+      - Permissions
+      - Pipelines
+      - Points
+      - Policies
+      - Posts
+      - Powerpack
+      - Powerpacks
+      - Principals
+      - Priorities
+      - Private
+      - Private)
+      - Processes
+      - Products
+      - Projected
+      - Projects
+      - Public
+      - Queries
+      - RUM
+      - Ranges
+      - Re Order
+      - Read
+      - Readers
+      - Ready
+      - Related
+      - Remote
+      - Reorder
+      - Resources
+      - Restore
+      - Restrictions
+      - Results
+      - Retention
+      - Revoke
+      - Roles
+      - Rule's
+      - Rules
+      - Runs
+      - SLO
+      - SLO's
+      - SLOs
+      - STS
+      - STS Enabled
+      - Safely
+      - Saml
+      - Save
+      - Scalar
+      - Scanner
+      - Scanning
+      - Schedules
+      - Search
+      - Security
+      - Send
+      - Sensitive
+      - Series
+      - Services
+      - Sets
+      - Settings
+      - Shared
+      - Signal's
+      - Signals
+      - Single
+      - Slack
+      - Slo
+      - Snapshots
+      - Sources
+      - Span Based
+      - Spans
+      - Specific
+      - Spin Off
+      - Standard
+      - States
+      - Status
+      - Sts
+      - Submit
+      - Summaries
+      - Suppressions
+      - Synthetic
+      - Synthetics
+      - Tags
+      - Take
+      - Teams
+      - Test's
+      - Tests
+      - Threats
+      - Time Series
+      - Timeframes
+      - Tokens
+      - Top
+      - Totals
+      - Triage
+      - Triggers
+      - URL
+      - UUID
+      - Uc
+      - Unarchive
+      - Unassign
+      - Unmute
+      - Uploads
+      - Usage
+      - Users
+      - Uu
+      - Val
+      - Validate
+      - Value
+      - Variables
+      - Volumes
+      - Webhooks
+      - Workloads
     properties:
       - type: Documentation
         url: https://docs.datadoghq.com/api/latest/
@@ -61,4 +339,5 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: datadog
+
 ---
