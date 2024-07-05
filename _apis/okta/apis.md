@@ -8,7 +8,7 @@ description: >-
   secure, reliable, extensively audited platform, which integrates deeply with
   on-premises applications, directories, and identity management systems.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/okta.yml
+url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/okta/apis.md
 created: '2023-11-20T00:00:00.000Z'
 modified: '2024-07-03'
 specificationVersion: '0.18'

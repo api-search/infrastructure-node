@@ -4,7 +4,7 @@ description: >-
   Datadog is an observability service for cloud-scale applications, providing
   monitoring of servers, databases, tools, and services, through a SaaS-based
   data analytics platform. 
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/datadog.yml
+url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/pagerduty/apis.md
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'

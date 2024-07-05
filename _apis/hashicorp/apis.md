@@ -6,8 +6,7 @@ description: >-
   developers, operators and security professionals to provision, secure, run and
   connect cloud-computing infrastructure.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: >-
-  https://raw.githubusercontent.com/apis-json/artisanal/main/apis/microsoft-azure.yml
+url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/hashicorp/apis.md
 created: 2024/02-01
 modified: 2024/02-01
 specificationVersion: '0.16'

@@ -5,7 +5,7 @@ description: >-
   monitoring of servers, databases, tools, and services, through a SaaS-based
   data analytics platform. 
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/datadog.yml
+url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/datadog/apis.md
 created: 2023/11/22
 modified: '2024-07-03'
 specificationVersion: '0.18'

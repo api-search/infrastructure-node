@@ -5,7 +5,7 @@ description: >-
   help businesses regain control of their technology and security environments
   by reducing complexity and improving visibility across their on-premises,
   public cloud, SaaS and public Internet domains.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/cloudflare.yml
+url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/cloudflare/apis.md
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'

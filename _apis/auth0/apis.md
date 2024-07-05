@@ -5,7 +5,7 @@ description: >-
   services to your applications. Your team and organization can avoid the cost,
   time, and risk that come with building your own solution to authenticate and
   authorize users.
-url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/auth0.yml
+url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/auth0/apis.md
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'
