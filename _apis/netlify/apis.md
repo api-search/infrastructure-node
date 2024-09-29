@@ -1,11 +1,11 @@
----
 name: Netlify
 description: >-
   Netlify is a remote-first cloud computing company that offers a development
   platform that includes build, deploy, and serverless backend services for web
   applications and dynamic websites.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/netlify/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/netlify/apis.md
 created: 2023/11/14
 modified: '2024-07-03'
 specificationVersion: '0.18'
@@ -59,5 +59,3 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: netlify
-
----

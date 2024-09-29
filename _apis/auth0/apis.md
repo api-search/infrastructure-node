@@ -1,11 +1,11 @@
----
 name: Auth0
 description: >-
   Auth0 is a flexible, drop-in solution to add authentication and authorization
   services to your applications. Your team and organization can avoid the cost,
   time, and risk that come with building your own solution to authenticate and
   authorize users.
-url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/auth0/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/auth0/apis.md
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'
@@ -23,5 +23,3 @@ maintainers:
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: auth0
-
----

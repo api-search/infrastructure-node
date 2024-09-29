@@ -1,11 +1,11 @@
----
 name: Cloudflare
 description: >-
   Cloudflare is built on an intelligent, secure, high-speed global network. We
   help businesses regain control of their technology and security environments
   by reducing complexity and improving visibility across their on-premises,
   public cloud, SaaS and public Internet domains.
-url: https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/cloudflare/apis.md
+url: >-
+  https://raw.githubusercontent.com/api-search/infrastructure/main/_apis/cloudflare/apis.md
 created: 2024/04/14
 modified: '2024-07-03'
 specificationVersion: '0.18'
@@ -548,6 +548,7 @@ apis:
       - type: OpenAPI
         url: overlays/cloudflare-accounts--openapi-search.yml
     humanURL: https://developers.cloudflare.com/api/operations/accounts-list-accounts
+    aid: cloudflare:cloudflare-accounts-api
   - name: Cloudflare Certificates API
     description: Managing certificates used across Cloudflare.
     tags:
@@ -574,6 +575,7 @@ apis:
       - type: OpenAPI
         url: overlays/cloudflare-certificates--openapi-search.yml
     humanURL: https://developers.cloudflare.com/api/
+    aid: cloudflare:cloudflare-certificates-api
   - name: Cloudflare IP Addresses API
     description: >-
       Provides the ability to manage IP addresses used across a Cloudflare
@@ -597,6 +599,7 @@ apis:
         url: overlays/cloudflare-ips--openapi-search.yml
     humanURL: >-
       https://developers.cloudflare.com/api/operations/ip-access-rules-for-a-user-list-ip-access-rules
+    aid: cloudflare:cloudflare-ip-addresses-api
   - name: Cloudflare Memberships API
     description: Provides the ability to manage memberships across accounts.
     tags:
@@ -613,6 +616,7 @@ apis:
         url: overlays/cloudflare-memberships--openapi-search.yml
     humanURL: >-
       https://developers.cloudflare.com/api/operations/user'-s-account-memberships-list-memberships
+    aid: cloudflare:cloudflare-memberships-api
   - name: Cloudflare Radar API
     description: Provides the ability to access all of Cloudflare's radar capabilities.
     tags:
@@ -760,6 +764,7 @@ apis:
       - type: OpenAPI
         url: overlays/cloudflare-radar--openapi-search.yml
     humanURL: https://developers.cloudflare.com/api/operations/radar-get-search-global
+    aid: cloudflare:cloudflare-radar-api
   - name: Cloudflare User API
     description: >-
       Provides the ability to manage all of the users across a Cloudflare
@@ -810,6 +815,7 @@ apis:
       - type: OpenAPI
         url: overlays/cloudflare-user--openapi-search.yml
     humanURL: https://developers.cloudflare.com/api/operations/user-user-details
+    aid: cloudflare:cloudflare-user-api
   - name: Cloudflare Zones API
     description: Provides the ability to manage DNS Zones across the Cloudflare platform.
     tags:
@@ -1186,10 +1192,9 @@ apis:
       - type: OpenAPI
         url: overlays/cloudflare-zones--openapi-search.yml
     humanURL: https://developers.cloudflare.com/api/operations/zones-get
+    aid: cloudflare:cloudflare-zones-api
 maintainers:
   - FN: API Evangelist
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: cloudflare
-
----
