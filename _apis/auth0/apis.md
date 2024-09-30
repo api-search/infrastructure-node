@@ -1,3 +1,4 @@
+---
 name: Auth0
 description: >-
   Auth0 is a flexible, drop-in solution to add authentication and authorization
@@ -23,3 +24,4 @@ maintainers:
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: auth0
+---

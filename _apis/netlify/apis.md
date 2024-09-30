@@ -1,3 +1,4 @@
+---
 name: Netlify
 description: >-
   Netlify is a remote-first cloud computing company that offers a development
@@ -59,3 +60,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: netlify
+---

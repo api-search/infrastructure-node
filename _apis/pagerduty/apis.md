@@ -1,3 +1,4 @@
+---
 name: Datadog
 description: >-
   Datadog is an observability service for cloud-scale applications, providing
@@ -25,3 +26,4 @@ maintainers:
     url: http://apievangelist.com
     email: info@apievangelist.com
 aid: datadog
+---

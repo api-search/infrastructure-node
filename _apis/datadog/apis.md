@@ -1,3 +1,4 @@
+---
 name: Datadog
 description: >-
   Datadog is an observability service for cloud-scale applications, providing
@@ -339,3 +340,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: datadog
+---

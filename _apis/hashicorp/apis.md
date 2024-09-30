@@ -1,3 +1,4 @@
+---
 name: Hashicorp
 description: >-
   HashiCorp is a software company with a freemium business model based in San
@@ -56,3 +57,4 @@ overlays:
   - type: API Evangelist Ratings
     url: overlays/apis-io-search.yml
 aid: hashicorp
+---
